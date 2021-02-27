@@ -1,0 +1,4 @@
+include ':rx'
+include ':pub-sub'
+include ':dynamic-view'
+rootProject.name = "CarvAndroidTask"
